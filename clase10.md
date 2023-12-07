@@ -35,10 +35,15 @@
 ```
 
 - Puedes usar CLR para limpiar el registro, todo 0
+- Puedes usar SER para tener todo el registro con 1
 - Puedes usar COM para tener el complemento a 1
 - Puedes usar INC para incrementar en 1 un registro
+- Puedes usar DEC para decrementar en 1 un registro
 - Puedes usar SBI para establecer el valor de un puerto en 1
-- Puedes usar SER para tener todo el registro con 1
+- Puedes usar CBI para establecer el valor de un puerto en 0
+- SBIS  Si es 1 skip
+- SBIC  Si es 0 skip
+
 ### Conclusiones
 . Basicamente esta clase es sobre instrucciones básicas en el atmega, también enseñan que las instrucciones ocupan memoria, sin embargo las etiquetas no. 
 
