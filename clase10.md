@@ -13,6 +13,6 @@
 > Usar chatgpt para encontrar las instrucciones y verificarlas en el dataSheet
 - Es importante visusalizar los registros para poder debugear el programa
 
-|Basicamente esta clase es sobre instrucciones básicas en el atmega, también enseñan que las instrucciones ocupan memoria, sin embargo las etiquetas no.|
+> Basicamente esta clase es sobre instrucciones básicas en el atmega, también enseñan que las instrucciones ocupan memoria, sin embargo las etiquetas no. 
 
 `Simple`
