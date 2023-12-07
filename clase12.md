@@ -56,3 +56,6 @@
 ```
 
 [TICO_GENERATOR](https://docs.google.com/spreadsheets/d/11eiTOltQVk5y4H_hZ7lEm0pATjN-lYyYoUUO5Urye5o/edit?usp=sharing)
+
+### Modo CTC
+- Aqui comparas, el top no es el valor maximo, es elegido por el usuario (OCR0, OCR2, OCR1AH, OCR1AL, OCR1BH, OCR1BL)
