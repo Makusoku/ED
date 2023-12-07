@@ -24,8 +24,8 @@
     . Y : R29:R28
     . Z : R31:R30
 
-. LD    X,  Rd -> Guarda el valor en la memoria a la que apunta el puntero
-. ST    Rd, X  -> Leer el valor de la memoria a la que apunta el puntero
+. ST    X,  Rd -> Guarda el valor en la memoria a la que apunta el puntero
+. LD    Rd, X  -> Leer el valor de la memoria a la que apunta el puntero
 
 ```
     .cseg
