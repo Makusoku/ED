@@ -55,3 +55,4 @@
     rjmp    ga
 ```
 
+[TICO_GENERATOR](https://docs.google.com/spreadsheets/d/11eiTOltQVk5y4H_hZ7lEm0pATjN-lYyYoUUO5Urye5o/edit?usp=sharing)
